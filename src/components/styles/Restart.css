@@ -1,0 +1,12 @@
+.restartContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 78px;
+}
+.winner {
+  text-shadow: 0px 0px 4px #5fd6f7;
+  color: white;
+  font-size: 46px;
+}

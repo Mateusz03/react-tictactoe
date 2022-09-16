@@ -1,0 +1,18 @@
+.gameContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 128px;
+}
+.moveContainer {
+  display: flex;
+  gap: 78px;
+}
+.move {
+  width: 100px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

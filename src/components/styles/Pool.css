@@ -1,0 +1,26 @@
+.pool {
+  width: calc(100% / 3 - 16px);
+  height: calc(100% / 3 - 16px);
+  box-shadow: 0px 0px 8px 1px #5fd6f7;
+  transition-delay: 20ms;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #212121;
+  border: none;
+}
+.pool:hover {
+  transition-delay: 20ms;
+  background-color: rgba(95, 214, 247, 0.05);
+  box-shadow: 0px 0px 8px 2px #358aa2;
+}
+.poolsContainer {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}

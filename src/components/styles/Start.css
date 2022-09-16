@@ -1,0 +1,12 @@
+.startContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 128px;
+  flex-direction: column;
+}
+.startTitle {
+  font-size: 48px;
+  color: #5fd6f773;
+  text-shadow: 0px 0px 4px #5fd6f7;
+}
